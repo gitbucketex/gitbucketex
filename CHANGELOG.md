@@ -1,6 +1,9 @@
 # Changelog
 All changes to the project will be documented in this file.
 
+## 4.42.0 - 24 Sep 2024
+- Simple UI Changes
+
 ## 4.41.0 - 18 May 2024
 - Simplify pull request UI
 - Keyword search for issues and pull requests
