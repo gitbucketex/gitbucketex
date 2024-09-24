@@ -1915,3 +1915,7 @@ body.sidebar-collapse .main-sidebar li.menu-item-hover:not(:hover) span.pull-rig
 body.sidebar-collapse .main-sidebar li.treeview:not(:hover) span.pull-right-container span.label {
   padding: 2px 4px;
 }
+
+.main-header #navbar-search-input.form-control, textarea{
+  border-radius: 5px !important;
+}
