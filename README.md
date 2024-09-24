@@ -1,4 +1,4 @@
-GitBucketEx [![build](https://github.com/gitbucketex/gitbucketex/workflows/build/badge.svg?branch=master)](https://github.com/gitbucketex/gitbucketex/actions?query=workflow%3Abuild+branch%3Amaster) (https://github.com/gitbucketex/gitbucketex/blob/master/LICENSE)
+GitBucketEx
 =========
 
 GitBucketEx is a Git web platform powered by Scala offering:
