@@ -9,8 +9,6 @@ GitBucketEx is a Git web platform powered by Scala offering:
 - API compatibility with GitHub
 - Extended Version Of GitBucket
 
-![GitBucketEx](https://git.tahaghafuri.ir/img/screenshots/screenshot-repository_viewer.png)
-
 Features
 --------
 The current version of GitBucket provides many features such as:
