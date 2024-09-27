@@ -45,7 +45,7 @@ GitBucketEx Uses GitBucket's Pugins::
 
 What's New in 4.42.x
 -------------
-## 4.42.0 - 24 Sep 2024
-- Simple UI Changes
+## 4.42.1 - 27 Sep 2024
+- Upgrade internal libraries
 
 See the [change log](CHANGELOG.md) for all of the updates.

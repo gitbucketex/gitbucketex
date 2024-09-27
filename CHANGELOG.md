@@ -1,6 +1,9 @@
 # Changelog
 All changes to the project will be documented in this file.
 
+## 4.42.1 - 27 Sep 2024
+- Upgrade internal libraries
+
 ## 4.42.0 - 24 Sep 2024
 - Simple UI Changes
 
