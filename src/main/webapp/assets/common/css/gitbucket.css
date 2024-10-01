@@ -1919,3 +1919,9 @@ body.sidebar-collapse .main-sidebar li.treeview:not(:hover) span.pull-right-cont
 .main-header #navbar-search-input.form-control, textarea{
   border-radius: 5px !important;
 }
+
+.pc .nav .navbar-nav a, .sidebar-toggle, .dropdown-toggle {
+  border-radius: 5px !important;
+  padding: 10px !important;
+  margin: 5px !important;
+}
