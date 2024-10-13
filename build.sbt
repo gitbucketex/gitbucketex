@@ -38,7 +38,7 @@ libraryDependencies ++= Seq(
   "org.apache.commons"        % "commons-email"                % "1.6.0",
   "commons-net"               % "commons-net"                  % "3.11.1",
   "org.apache.httpcomponents" % "httpclient"                   % "4.5.14",
-  "org.apache.sshd"           % "apache-sshd"                  % "2.13.2" exclude ("org.slf4j", "slf4j-jdk14") exclude (
+  "org.apache.sshd"           % "apache-sshd"                  % "2.14.0" exclude ("org.slf4j", "slf4j-jdk14") exclude (
     "org.apache.sshd",
     "sshd-mina"
   ) exclude ("org.apache.sshd", "sshd-netty"),
@@ -48,7 +48,7 @@ libraryDependencies ++= Seq(
   "com.h2database"                  % "h2"                       % "1.4.199",
   "org.mariadb.jdbc"                % "mariadb-java-client"      % "2.7.12",
   "org.postgresql"                  % "postgresql"               % "42.7.4",
-  "ch.qos.logback"                  % "logback-classic"          % "1.5.8",
+  "ch.qos.logback"                  % "logback-classic"          % "1.5.10",
   "com.zaxxer"                      % "HikariCP"                 % "6.0.0" exclude ("org.slf4j", "slf4j-api"),
   "com.typesafe"                    % "config"                   % "1.4.3",
   "fr.brouillard.oss.security.xhub" % "xhub4j-core"              % "1.1.0",
@@ -56,7 +56,7 @@ libraryDependencies ++= Seq(
   "org.cache2k"                     % "cache2k-all"              % "1.6.0.Final",
   "net.coobird"                     % "thumbnailator"            % "0.4.20",
   "com.github.zafarkhaja"           % "java-semver"              % "0.10.2",
-  "com.nimbusds"                    % "oauth2-oidc-sdk"          % "11.20",
+  "com.nimbusds"                    % "oauth2-oidc-sdk"          % "11.20.1",
   "org.eclipse.jetty"               % "jetty-webapp"             % JettyVersion    % "provided",
   "javax.servlet"                   % "javax.servlet-api"        % "3.1.0"         % "provided",
   "junit"                           % "junit"                    % "4.13.2"        % "test",
@@ -67,7 +67,7 @@ libraryDependencies ++= Seq(
   "org.testcontainers"              % "postgresql"               % "1.20.2"        % "test",
   "net.i2p.crypto"                  % "eddsa"                    % "0.3.0",
   "is.tagomor.woothee"              % "woothee-java"             % "1.11.0",
-  "org.ec4j.core"                   % "ec4j-core"                % "1.0.0",
+  "org.ec4j.core"                   % "ec4j-core"                % "1.1.0",
   "org.kohsuke"                     % "github-api"               % "1.326"         % "test"
 )
 
